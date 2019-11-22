@@ -1,2 +1,10 @@
-# appjam-unity
-appjam-unity
+# ApplayJump
+
+<br>
+
+### 개요
+2019-2학기 가천대학교 어플레이 앱잼에서 제작한 안드로이드 게임
+
+### 사용한 기술
+- 엔진 : Unity 2019 2.0f
+- 언어 : C#
